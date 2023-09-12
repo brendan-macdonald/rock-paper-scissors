@@ -22,7 +22,9 @@ function getPlayerChoice() {
     }
 }
 
+
 //Previously used getPlayerChoice() function without the ability to restrict null/non array answers
+//Delete if not needed
 // function getPlayerChoice() {
 //     let input = prompt("Choose Rock, Paper, or Scissors...");
 //     while (input == null) {
