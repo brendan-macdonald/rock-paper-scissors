@@ -1,4 +1,9 @@
 # rock-paper-scissors
+
+Implementation of a Rock Paper Scissors game using JavaScript
+
+🔗 Live preview of my web toy is here https://brendan-macdonald.github.io/rock-paper-scissors/
+
 Technologies
 
     HTML
